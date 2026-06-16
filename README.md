@@ -1,8 +1,7 @@
 # Why the 4:3 Diet Worked Better for Me Than the 5:2 Diet
 
 <img width="937" height="389" alt="Image" src="https://github.com/user-attachments/assets/0f0fed50-e6d7-40c9-9359-0ffde36c97c2" />
-```md
-```md
+
 
 For years, I felt like I was stuck in a loop.
 
